@@ -1,8 +1,11 @@
-# Feeds
+# Feeds - Bun
 
 ![cover](https://feeds.software/assets/og.png)
 
 Minimal RSS Feeds
+
+>[!NOTE]
+>This is the older version of this program using Bun; for the updated version in Rust please visit [stevedylandev/feeds](https://github.com/stevedylandev/feeds-bun)
 
 ## About
 
